@@ -10,6 +10,10 @@ aside{
 	padding: 50px 20px 0px;
 	background-color: white;
 }
+.image1{
+	max-width: 219px;
+	max-height: 219px;
+}
 .fix::after{
 	content:"";
 	display: block;
